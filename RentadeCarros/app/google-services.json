@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1093448216209",
+    "firebase_url": "https://rentadecarros-36ade.firebaseio.com",
+    "project_id": "rentadecarros-36ade",
+    "storage_bucket": "rentadecarros-36ade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093448216209:android:3738fbf16e9a81841f5930",
+        "android_client_info": {
+          "package_name": "com.example.alvaro_ibanez_navigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093448216209-duvbm8hik5mncfggtmo9v10pnfbh1ibn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alvaro_ibanez_navigationdrawer",
+            "certificate_hash": "a54ec33dfb4f8a3faf9a4bc24c67ece3950c3e38"
+          }
+        },
+        {
+          "client_id": "1093448216209-rluvdfacvpgk3qt80irtvduo2gjqqu8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aLyoYnMYAChALLGLtj5n3_mNMTS9lok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093448216209-rluvdfacvpgk3qt80irtvduo2gjqqu8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

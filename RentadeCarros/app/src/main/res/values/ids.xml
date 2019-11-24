@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="content_frame" type="id" />
+    <item name="nav_inicio" type="id" />
+    <item name="nav_suc1" type="id" />
+    <item name="nav_suc2" type="id" />
+    <item name="nav_suc3" type="id" />
+    <item name="nav_salir" type="id" />
+</resources>

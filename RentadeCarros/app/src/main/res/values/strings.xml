@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Miscelaneos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="menu_home">INICIO</string>
+    <string name="menu_salir">Salir</string>
+
+
+    <string-array name="Lugar">
+        <item>Carro 1:</item>
+        <item>Carro 2:</item>
+        <item>Carro 3:</item>
+        <item>Carro 4:</item>
+        <item>Carro 5:</item>
+        <item>Carro 6:</item>
+        <item>Carro 7:</item>
+        <item>carro 8</item>
+        <item>carro 9:</item>
+        <item>Carro 10:</item>
+
+    </string-array>
+    <string-array name="descripLugar">
+        <item> El Hyundai Tucson es un vehículo con una carrocería de estilo todoterreno que mide 4,48 metros de longitud. La versión más asequible (1.6 GDI 132 CV 4x2 manual)</item>
+        <item>El ajuste estándar de la Nissan Quest con capacidad para siete personas. La primera fila de asientos ofrece 41.7 pulgadas de altura, 58,5 centímetros de espacio para las caderas, 41.7 pulgadas de espacio para las piernas y 63.8 pulgadas de espacio para los hombros </item>
+
+        <item> 300 3.6L Pentastar® Motor Pentastar® V6 3.6L. Potencia 292 hp @ 6,350 rpm. Transmisión automática de 8 velocidades</item>
+
+        <item>Motor L4 2.5L 16 válvulas DOHC i-VCT.Potencia 175 hp @ 5,000 rpm y torque 175 lb-ft @ 4,500 rpm.
+Transmisión automática 6 velocidades con palanca de cambios rotativa.
+Tracción delantera.
+Suspensión delantera independiente McPherson® y trasera multi-link.
+Frenos delanteros de disco en las 4 ruedas
+ </item>
+
+        <item>Motor L4 1.6L 16 válvulas DOHC con inyección secuencial multipunto.
+Potencia 118 hp @ 6,300 rpm y torque 110 lb-ft @ 4,000 rpm.
+Diámetro x carrera 78 x 83.6 mm.
+Relación de compresión 10.9:1.
+Transmisión manual de 5 velocidades / automática tipo CVT.
+Relaciones de la caja manual:
+ </item>
+
+        <item>Puertas 5.
+Plazas 5.
+Potencia 101 - 184 cv.
+Consumo 3,5 - 6 l/100km.
+Maletero 375 - 608 litros.
+Valoración 4,2.
+ </item>
+
+        <item> Su motor 2,0L entrega 153 caballos de potencia a 6.000 r.p.m y un torque máximo de 20,39 Kg-m a 4.000 r.p.m con una extraordinaria relación de compresión de 13 a 1. Genera bajas emisiones contaminantes y un eficiente consumo de combustible. Todo esto, sin sacrificar desempeño y seguridad.</item>
+
+        <item> Sus cotas generales se establecen en 4.355 mm de longitud, 1.640 mm de alto y 1.770 mm de ancho. En cuanto a espacio interior nos encontramos con un maletero con doble fondo que alcanza un volumen de 442 litros, ampliable a hasta los 1.219 litros con los asientos traseros abatidos</item>
+
+        <item>Largo: 4202 mm.Ancho: 1665 mm.
+Altura: 136 mm.
+Peso: 930 Kg.
+Volumen Baúl: 440L.
+Relación Peso/Potencia: 11.3.
+Frenos Delanteros: Discos Ventilados.
+Frenos Traseros: Tambor.
+ </item>
+        <item>
+Versión probada		EX TA
+Cilindrada	1,591 cm³	Barra de torsión
+Potencia máxima (hp @ rpm)	121 hp @ 6,300 rpm	4,385 mm
+Par máximo (lb-pie @ rpm)	111 lb-pie @ 4,850 rpm	387 litros
+Transmisión	Automática de 6 vels.	9.8 km/l
+</item>
+    </string-array>
+
+
+</resources>

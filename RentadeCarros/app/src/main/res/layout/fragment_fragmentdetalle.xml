@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#FFFFFF"
+    android:layout_height="match_parent"
+    tools:context=".Fragmentdetalle">
+
+    <LinearLayout
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtNomPaisaje"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+        <ImageView
+            android:id="@+id/img_paisaje"
+            android:layout_width="match_parent"
+            android:layout_height="345dp"
+            android:src="@drawable/carro1" />
+
+        <TextView
+    android:id="@+id/txtDescripcion"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="TextView" />
+
+<TextView
+    android:id="@+id/textView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnRegresar"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="161dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:padding="15dp"
+
+                android:text="regresar" />
+
+            <Button
+                android:id="@+id/btnSiguiente"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="161dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:padding="15dp"
+                android:text="Siguiente" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+    </FrameLayout>
